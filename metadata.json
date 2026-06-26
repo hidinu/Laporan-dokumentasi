@@ -1,0 +1,6 @@
+{
+  "name": "Pembuat Dokumentasi Foto PDF",
+  "description": "Aplikasi untuk menyusun dokumentasi foto (4 foto per halaman) secara rapi dan mengekspornya ke format PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
